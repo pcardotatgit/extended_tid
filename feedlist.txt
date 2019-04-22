@@ -1,0 +1,4 @@
+https://isc.sans.edu/feeds/suspiciousdomains_High.txt;parser_1;domain;domains_isc-sans-edu_list.txt
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt;parser_2;domain;domains_ransomwaretracker_list.txt
+http://mirror1.malwaredomains.com/files/domains.txt;parser_3;domain;domains_malwaredomains_list.txt
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist;parser_2;domain;domains_zeus_list.txt
