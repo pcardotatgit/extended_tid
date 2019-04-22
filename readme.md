@@ -10,11 +10,11 @@ A web server is started at the end of the parsing operation. This web server lis
 
 INSTRUCTION FOR RUNNING THE APPLICATION
 
-1- create a directory named  /temp in the extended_tid directory
+1- create a subdirectory named  /temp in the /extended_tid directory
 
 2- run the application : python extended_tid.py
 
-3- Type Enter for everyfeeds. ( just here to see the progression and avoiding waiting minutes without any prompt )
+3- Type Enter for every feed. ( just here to see the progression and avoiding waiting minutes without any prompt )
 
 4- Finalle confirm the Web server starting
 
