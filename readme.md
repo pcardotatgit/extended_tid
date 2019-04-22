@@ -3,7 +3,7 @@ extended_tid
 GSSO Automation Challenge - Extended_TID automatically download and format public Security Feeds for making them compliant with FMC Threat Intelligence Director expected Format
 
 Reads the feedlist.txt files which contains all Feed's URL of Public Feeds you want to download. Plus instructions for parsing and output.
-  We have put 4 examples of public feeds . Public feeds are parsed and re writted.
+  We have put 4 examples of public feeds . Public feeds are parsed and rewritten.
   
 Parsing results are stored into a directory named /output. Resulting files respect the FMC TID expected sources format.
 
